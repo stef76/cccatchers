@@ -1,0 +1,18 @@
+Voici le résultat des exercices effectués dans vos locaux.
+
+Pour l'exercice 1, j'ai tout de suite trouvé la démarche à suivre : 
+
+- isoler ce qu'il y a entre accolades
+- Pour chaque accolade faire un explode sur le |
+- Puis faire un random des valeurs récupérées de l'explode pour en choisir une au hasard.
+
+Dans une autre boucle on rassemble le tout.
+
+J'ai eu quelques difficultés sur l'expression régulière ce qui m'a fait perdre du temps
+
+Pour l'exercice 2, malheureusement, le site ne répondait pas depuis mon PC (ni depuis mon serveur Windows). Je n'ai donc pas pu le faire.
+
+Pour l'exercice 3, la requête en elle-même ne m'a pas posé de souci. En revanche j'ai passé un peu plus de temps pour trouver comment afficher les jours de la semaine en français.
+
+Une de mes récentes réalisations était pour un projet tuteuré en Licence. Il est développé sous Symfony. Je n'ai pas les sources sur moi, mais voici l'url pour que vous puissiez au moins avoir un aperçu : http://recruitme.fr
+
