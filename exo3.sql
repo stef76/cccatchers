@@ -1,0 +1,2 @@
+SET lc_time_names = 'fr_FR';
+SELECT dayname(created_at) as Jour, AVG(id) AS Moyenne FROM `calls` WHERE Month(created_at) = 05 AND hour(created_at) BETWEEN '10' AND '16' GROUP BY date_format(created_at,'%w')
