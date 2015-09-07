@@ -10,7 +10,7 @@ Dans une autre boucle on rassemble le tout.
 
 J'ai eu quelques difficultés sur l'expression régulière ce qui m'a fait perdre du temps
 
-Pour l'exercice 2, malheureusement, le site ne répondait pas depuis mon PC (ni depuis mon serveur Windows). Je n'ai donc pas pu le faire.
+Pour l'exercice 2, malheureusement, le site ne répondait pas depuis mon PC (ni depuis mon serveur Windows). Je n'ai donc pas pu le faire. En revanche, David m'a expliqué le principe de l'exercice et il me semble que la techno utilisée aurait été du CURL. Je vous joins donc dans le dépôt un code personel que j'ai créé en utilisant du CURL.
 
 Pour l'exercice 3, la requête en elle-même ne m'a pas posé de souci. En revanche j'ai passé un peu plus de temps pour trouver comment afficher les jours de la semaine en français.
 
